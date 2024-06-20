@@ -1,4 +1,4 @@
-<img src="./assets//statusCode.png" width="100%" alt="image of a HTTP Status Code Chart"/>  
+<img src="./assets//status-Code.png" width="100%" alt="image of a HTTP Status Code Chart"/>  
 
 # HTTP response status codes
  They are standardized codes that a web server sends to a client (typically a web browser) to indicate the result of a client's request. 
